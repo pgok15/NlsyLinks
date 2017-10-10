@@ -13,7 +13,9 @@ We have been distributing the NLSY kinship links for close to two decades, and o
 
 <ol>
 
-<li value=66><cite>Garrison, S. M., Rodgers, J. L. (2017) .Decomposing the Causes of the Socioeconomic Status-Health Gradient with Biometrical Modeling. *MBR*. <em class="doi">doi:XXXXXX</em></cite>(NLSY79)</li>
+<li value=67><cite>Garrison, S. M., Rodgers, J. L. (2017) .Decomposing the Causes of the Socioeconomic Status-Health Gradient with Biometrical Modeling. *MBR*. <em class="doi">doi:XXXXXX</em></cite>(NLSY79)</li>
+ 
+ <li value=66><cite>Goodnight, J.A., Donahue, K.L., Waldman, I.D. et al. (2016) Genetic and Environmental Contributions to Associations between Infant Fussy Temperament and Antisocial Behavior in Childhood and Adolescence. *Behavioral Genetics*. <em class="doi">doi:10.1007/s10519-016-9794-2</em></cite>(NLSY79; NLSYC)</li>
  
 <li value=65><cite>Garrison, S. M., Rodgers, J. L. (2016) Casting doubt on the causal link between intelligence and age at first intercourse: A cross-generational sibling comparison design using the NLSY. *Intelligence*. <em class="doi">doi:Intelligence,59,139-156.doi:10.1016/j.intell.2016.08.008</em></cite>(NLSY79; NLSYC)</li>
 
